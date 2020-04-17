@@ -12,10 +12,11 @@ public class DemoGit
 
 	/**
 	 * Outputs my name
+	 * @param args Not used.
 	 */
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello. My name is Joel Reyes");
+		System.out.println("Hello. My name is Joel Reyes.");
 
 	}
 
