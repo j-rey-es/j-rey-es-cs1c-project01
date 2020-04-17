@@ -1,6 +1,6 @@
 /**
  * Simple class to test submitting to GitHub repository.
- * @author Foothill College, Bita M
+ * @author Foothill College, Bita M, Joel Reyes
  *
  * Note: If you modified this file then update the author name with your: FirstName LastName
  * 
